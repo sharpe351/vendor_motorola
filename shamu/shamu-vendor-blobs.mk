@@ -391,6 +391,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/shamu/proprietary/vendor/firmware/bcm20795_firmware.ncd:system/vendor/firmware/bcm20795_firmware.ncd \
     vendor/motorola/shamu/proprietary/vendor/firmware/bcm4354A2.hcd:system/vendor/firmware/bcm4354A2.hcd \
     vendor/motorola/shamu/proprietary/xbin/wlutil:system/xbin/wlutil \
-    vendor/motorola/shamu/proprietary/etc/permissions/com.motorola.triggerenroll.xml:/etc/permissions/com.motorola.triggerenroll.xml \
+    vendor/motorola/shamu/proprietary/etc/permissions/com.motorola.triggerenroll.xml:system/etc/permissions/com.motorola.triggerenroll.xml \
     vendor/motorola/shamu/proprietary/lib/libtrainingcheck.so:system/lib/libtrainingcheck.so \
     vendor/motorola/shamu/proprietary/etc/diag/audio_voice_apr.cfg:system/etc/diag/audio_voice_apr.cfg
